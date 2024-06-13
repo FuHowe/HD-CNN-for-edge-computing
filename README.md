@@ -1,5 +1,6 @@
 We update the code and upload experimental result files.
 
+If you have any question, please contact me or leave your message.
 
 This is an open-source code for "Running Unmodified CNN with low RAM on Resources-Constrained MCU for WSN Edge Computing"
 
